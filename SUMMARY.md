@@ -44,9 +44,12 @@
 
 ## КРАФТИ
 
-* [Gamingbarn/GBG](krafti/gamingbarn-gbg.md)
-* [М’яч](krafti/myach.md)
-* [Вогнище](krafti/vognishe.md)
+* [🔫 Зброя](krafti/zbroya.md)
+* [⚙️ Обладнання](krafti/obladnannya.md)
+* [🧱 Турелі](krafti/tureli.md)
+* [💉 Медицина](krafti/medicina.md)
+* [🔥Вогнище](krafti/vognishe.md)
+* [⚽М’яч](krafti/myach.md)
 
 ***
 
