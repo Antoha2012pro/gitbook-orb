@@ -47,3 +47,7 @@
 * [Gamingbarn/GBG](krafti/gamingbarn-gbg.md)
 * [М’яч](krafti/myach.md)
 * [Вогнище](krafti/vognishe.md)
+
+***
+
+* [Items](items.md)
