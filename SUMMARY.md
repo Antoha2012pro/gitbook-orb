@@ -41,6 +41,7 @@
 * [Кастомні зачарування](unikalni-fishki-servera/kastomni-zacharuvannya.md)
 * [Оренда на спавні](unikalni-fishki-servera/orenda-na-spavni.md)
 * [Риболовля](unikalni-fishki-servera/ribolovlya.md)
+* [🪩Голограма](unikalni-fishki-servera/golograma.md)
 
 ## КРАФТИ
 
