@@ -42,6 +42,7 @@
 * [Оренда на спавні](unikalni-fishki-servera/orenda-na-spavni.md)
 * [Риболовля](unikalni-fishki-servera/ribolovlya.md)
 * [🪩Голограма](unikalni-fishki-servera/golograma.md)
+* [🧪 Перетворення досвіду в пляшечки](unikalni-fishki-servera/peretvorennya-dosvidu-v-plyashechki.md)
 
 ## КРАФТИ
 
