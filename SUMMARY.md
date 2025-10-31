@@ -41,17 +41,17 @@
 * [Кастомні зачарування](unikalni-fishki-servera/kastomni-zacharuvannya.md)
 * [Оренда на спавні](unikalni-fishki-servera/orenda-na-spavni.md)
 * [Риболовля](unikalni-fishki-servera/ribolovlya.md)
-* [🪩Голограма](unikalni-fishki-servera/golograma.md)
-* [🧪 Перетворення досвіду в пляшечки](unikalni-fishki-servera/peretvorennya-dosvidu-v-plyashechki.md)
+* [Голограма](unikalni-fishki-servera/golograma.md)
+* [Досвід у пляшки](unikalni-fishki-servera/dosvid-u-plyashki.md)
 
 ## КРАФТИ
 
-* [🔫 Зброя](krafti/zbroya.md)
-* [⚙️ Обладнання](krafti/obladnannya.md)
-* [🧱 Турелі](krafti/tureli.md)
-* [💉 Медицина](krafti/medicina.md)
-* [🔥Вогнище](krafti/vognishe.md)
-* [⚽М’яч](krafti/myach.md)
+* [Зброя](krafti/zbroya.md)
+* [Обладнання](krafti/obladnannya.md)
+* [Турелі](krafti/tureli.md)
+* [Медицина](krafti/medicina.md)
+* [Вогнище](krafti/vognishe.md)
+* [М’яч](krafti/myach.md)
 
 ***
 
