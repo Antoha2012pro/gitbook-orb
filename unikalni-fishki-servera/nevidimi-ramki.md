@@ -8,7 +8,7 @@
 2. **Присядь** (Shift) і натисни **ПКМ** по рамці.\
    — Якщо в рамці **є предмет**, рамка стане **повністю невидимою** і **перестане світитися**.
 
-<figure><img src="https://black-minecraft.com/attachments/image-gif.63686/" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.gif" alt=""><figcaption></figcaption></figure>
 
 ### Як знову зробити рамку видимою
 
