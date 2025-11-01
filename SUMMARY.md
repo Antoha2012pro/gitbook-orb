@@ -44,12 +44,13 @@
 * [Голограма](unikalni-fishki-servera/golograma.md)
 * [Досвід у пляшки](unikalni-fishki-servera/dosvid-u-plyashki.md)
 * [Невидимі рамки](unikalni-fishki-servera/nevidimi-ramki.md)
-* [Меню предметів і крафтів](unikalni-fishki-servera/menyu-predmetiv-i-kraftiv.md)
 * [Емоції персонажа](unikalni-fishki-servera/emociyi-personazha.md)
 * [Емодзі в чаті](unikalni-fishki-servera/emodzi-v-chati.md)
+* [Наковальня та чари: як це працює](unikalni-fishki-servera/nakovalnya-ta-chari-yak-ce-pracyuye.md)
 
 ## КРАФТИ
 
+* [Меню предметів і крафтів](krafti/menyu-predmetiv-i-kraftiv.md)
 * [Зброя](krafti/zbroya.md)
 * [Обладнання](krafti/obladnannya.md)
 * [Турелі](krafti/tureli.md)
