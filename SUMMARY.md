@@ -43,6 +43,7 @@
 * [Риболовля](unikalni-fishki-servera/ribolovlya.md)
 * [Голограма](unikalni-fishki-servera/golograma.md)
 * [Досвід у пляшки](unikalni-fishki-servera/dosvid-u-plyashki.md)
+* [Невидимі рамки](unikalni-fishki-servera/nevidimi-ramki.md)
 
 ## КРАФТИ
 
