@@ -48,6 +48,9 @@
 * [Емодзі в чаті](unikalni-fishki-servera/emodzi-v-chati.md)
 * [Знімання та переносення чар](unikalni-fishki-servera/znimannya-ta-perenosennya-char.md)
 * [Досягнення](unikalni-fishki-servera/dosyagnennya.md)
+* [Розширення міста вардена](unikalni-fishki-servera/rozshirennya-mista-vardena.md)
+* [Дамаг від каменерізу](unikalni-fishki-servera/damag-vid-kamenerizu.md)
+* [Бетон через казан](unikalni-fishki-servera/beton-cherez-kazan.md)
 
 ## КРАФТИ
 

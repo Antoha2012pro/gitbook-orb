@@ -1,3 +1,7 @@
+---
+icon: car
+---
+
 # Машини
 
 ## Non Vehicle Items
