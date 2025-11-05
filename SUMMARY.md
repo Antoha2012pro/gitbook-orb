@@ -57,7 +57,4 @@
 * [Медицина](krafti/medicina.md)
 * [Вогнище](krafti/vognishe.md)
 * [М’яч](krafti/myach.md)
-
-***
-
-* [Items](items.md)
+* [Машини](krafti/mashini.md)
