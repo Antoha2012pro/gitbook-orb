@@ -58,3 +58,8 @@
 * [Вогнище](krafti/vognishe.md)
 * [М’яч](krafti/myach.md)
 * [Машини](krafti/mashini.md)
+
+***
+
+* [Enchantments \_ ExcellentEnchants Wiki](enchantments-_-excellentenchants-wiki.md)
+* [Enchantments | ExcellentEnchants Wiki](enchantments-or-excellentenchants-wiki.md)
