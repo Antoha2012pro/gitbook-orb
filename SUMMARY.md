@@ -47,6 +47,7 @@
 * [Емоції персонажа](unikalni-fishki-servera/emociyi-personazha.md)
 * [Емодзі в чаті](unikalni-fishki-servera/emodzi-v-chati.md)
 * [Знімання та переносення чар](unikalni-fishki-servera/znimannya-ta-perenosennya-char.md)
+* [Досягнення](unikalni-fishki-servera/dosyagnennya.md)
 
 ## КРАФТИ
 
