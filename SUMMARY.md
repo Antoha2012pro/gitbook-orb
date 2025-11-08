@@ -51,6 +51,7 @@
 * [Розширення міста вардена](unikalni-fishki-servera/rozshirennya-mista-vardena.md)
 * [Дамаг від каменерізу](unikalni-fishki-servera/damag-vid-kamenerizu.md)
 * [Бетон через казан](unikalni-fishki-servera/beton-cherez-kazan.md)
+* [Вогнище](unikalni-fishki-servera/vognishe.md)
 
 ## КРАФТИ
 
@@ -59,6 +60,5 @@
 * [Обладнання](krafti/obladnannya.md)
 * [Турелі](krafti/tureli.md)
 * [Медицина](krafti/medicina.md)
-* [Вогнище](krafti/vognishe.md)
 * [М’яч](krafti/myach.md)
 * [Машини](krafti/mashini.md)
