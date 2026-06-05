@@ -13,5 +13,3 @@ icon: skull-crossbones
 Пам’ятайте: лише ви можете відкрити свій труп. Не соромтесь кликати на допомогу, щоб не втратити все!
 
 <figure><img src="../.gitbook/assets/2025-05-18_18.10.59.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Discord_Vsdi34ATcL.png" alt=""><figcaption></figcaption></figure>
